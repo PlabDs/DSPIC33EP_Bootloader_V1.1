@@ -18,7 +18,7 @@ Bu depo (repository), PLAB DS cihazının donanımı üzerinde güvenli ve doğr
 2.	MCC içerisinde “16-bit Bootloader” kütüphanesini kurmanız gerekmektedir.
 3.	MCC ile pin konfigürasyonlarını istediğiniz şekilde yapabilirsiniz.
 4.	Device Resources kısmı içerisinde “16-bit Bootloader” seçeneği altında “16-bit Bootloader: Application” seçeneğine çift tıklayarak programınıza dahil etmelisiniz. 
-5.	Daha sonra aşağıda Bootloader projesini indirip “Browse” seçeneğine tıklayarak Bootloader’ı uygulamaya tanıtmış olursunuz. Bu sayede MPLAB projenizi yüklerken otomatik olarak Bootloader’ın yüklü olduğu adresi atlayarak Application için ayrılan kısma programınızı yazacaktır. 
+5.	Daha sonra Bootloader projesini indirip “Browse” seçeneğine tıklayarak Bootloader’ı uygulamaya tanıtmış olursunuz. Bu sayede MPLAB projenizi yüklerken otomatik olarak Bootloader’ın yüklü olduğu adresi atlayarak Application için ayrılan kısma programınızı yazacaktır. 
 
 ## İletişim ve İzinler
 
