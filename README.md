@@ -1,5 +1,5 @@
 # DSPIC33EP_Bootloader_V1.1
-PICLAB DS V1.1 için kullanılan bootloader program projesi.
+PLAB DS V1.1 için kullanılan bootloader program projesi.
 # PLAB DS - Çalıştırma Dosyası
 
 Bu depo (repository), PLAB DS cihazının donanımı üzerinde güvenli ve doğru bir şekilde çalışabilmesi için gerekli olan kritik dosyayı/kodları içermektedir.
